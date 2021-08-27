@@ -1,0 +1,2 @@
+npx create-react-app .
+npm install history react-router-dom@next
