@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./dogs-social/public/gif.gif" alt="Dogs" />
+  <img src="./public/gif.gif" alt="Dogs" />
 
 &#xa0;
 
@@ -14,7 +14,7 @@
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/robsonshockwave/dogs-social?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/robsonshockwave/dogs-social?color=56BEB8">
+  <!-- <img alt="Licença" src="https://img.shields.io/github/license/robsonshockwave/dogs-social?color=56BEB8" /> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/robsonshockwave/dogs-social?color=56BEB8" /> -->
 
@@ -74,7 +74,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/robsonshockwave/dogs-social
 
 # Entre na pasta
-$ cd dogs
+$ cd dogs-social
 
 # Instale as dependências
 $ yarn
@@ -85,11 +85,11 @@ $ yarn start
 # O app vai inicializar em <http://localhost:3000>
 ```
 
-## :memo: Licença
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+## 🦮 Auau
 
 Feito com :heart: por <a href="https://github.com/robsonshockwave" target="_blank">robsonshockwave</a>
+
+<hr>
 
 &#xa0;
 
