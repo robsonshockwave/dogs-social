@@ -13,7 +13,7 @@ export const Login = () => {
     if(login === true) return <Navigate to="/conta" />
 
     return (
-        <section className={styles.login}>
+        <section className={styles.login}> 
             <div className={styles.forms}>
                 <Routes>
                     <Route path="/" element={<LoginForm />} />
