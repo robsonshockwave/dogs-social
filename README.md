@@ -47,6 +47,10 @@
 
 Projeto é uma rede social de pets!
 
+<h4>Caso não queira criar conta, logue com essa conta:</h4>
+<h4>Login: <i>dog<i></h4>
+<h4>Senha: <i>dog<i></h4>
+
 ## :sparkles: Funcionalidades
 
 :heavy_check_mark: Cadastro do usuário;\
